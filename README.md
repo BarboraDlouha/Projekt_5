@@ -1,7 +1,7 @@
 # Vizualizace dat o základních uměleckých školách (ZUŠ)
 
 Tento Power BI projekt prezentuje vývoj a strukturu dat o žácích, učitelích a oborech v základních uměleckých školách (ZUŠ) v České republice. 
-Úvodní navigační stránka slouží jako přehled obsahu. Obsahuje interaktivní tlačítka pro přechod na jednotlivé straánk
+Úvodní navigační stránka slouží jako přehled obsahu. Obsahuje interaktivní tlačítka pro přechod na jednotlivé stránky
 ---
 
 1. **Počet ZUŠ v krajích: Aktuální přehled a vývoj**
